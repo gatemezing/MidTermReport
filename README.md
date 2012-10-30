@@ -1,7 +1,7 @@
 MidTermReport
 =============
 
-Elaboration du rapport de mi-parcours
+Elaboration du rapport de mi-parcours de ma thèse en cours
 
 # Structure du document pas encore stable
 
